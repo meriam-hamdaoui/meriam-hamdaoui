@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Github](https://img.shields.io/github/followers/meriam-hamdaoui?label=Follow&style=social)](https://github.com/meriam-hamdaoui)
 
 <!--
 **meriam-hamdaoui/meriam-hamdaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
