@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm MARIEM Hamdaoui a WEB Developer
 
-<img src="https://drive.google.com/file/d/1N-29znZ6SPEkZRb9gbWEIEHw81I9y0PM/view?usp=sharing" alt="web-dev"/>
+<img src="https://drive.google.com/file/d/1N-29znZ6SPEkZRb9gbWEIEHw81I9y0PM/view?usp=sharing" alt="web-dev" align="center" width="150" heigth="150"/>
 
 
 [![Github](https://img.shields.io/github/followers/meriam-hamdaoui?label=Follow&style=social)](https://github.com/meriam-hamdaoui)
