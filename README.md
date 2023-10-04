@@ -15,7 +15,7 @@
 </p>
 
 #
- <h4>You can reach me, on :</h4> 
+ You can reach me, on : 
  <ul>
       <li><img height="10" width="10" src="https://cdn.simpleicons.org/Gmail" /><a href="mailto:meriam.hamdaoui@gmail.com"> meriam.hamdaoui@gmail.com</a></li>
       <li><img height="10" width="10" src="https://cdn.simpleicons.org/LinkedIn" /><a href="https://www.linkedin.com/in/mariem-hamdaoui-6186b273/" target="_blank"> linkedin.com/in/mariem-hamdaoui</a> </li>
