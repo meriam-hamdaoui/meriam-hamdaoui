@@ -1,19 +1,20 @@
 
 ### Hi there 👋, I'm MARIEM Hamdaoui a **`WEB Developer`**
-<section style="display: flex; flex-direction: row;"> 
 
+<p> I am a dedicated Tunisian Full-Stack developer with a strong passion for mastering new technologies and enhancing my coding proficiency. </p>
+  <br/>
   <img src="https://svgshare.com/i/yBL.svg" alt="web-dev" align="center" width="950" heigth="350"/>
 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwv0Bon4wG_nmKjf4mSOEVrtjvAaELz3XDhA&usqp=CAU" alt="web-dev" align="center" width="150" heigth="150"/>-->
-
-  <p>
-    I am a dedicated Tunisian Full-Stack developer with a strong passion for mastering new technologies and enhancing my coding proficiency.  
+ <br/>
+<p>   
     <ul>
        <li>🔭 I am actively seeking new opportunities.</li>
        <li>🌱 I’m currently learning Typescript.</li> 
        <li>😄 I'm interested in exchanging knowledge with others, especially when it comes to various technologies.</li>      
     </ul>
- </p>
-</section>
+</p>
+
+
 
 
 #
