@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>🌱 I’m currently learning Typescript</li>    
     <li>📫 You can reach me, on :<ul>
       <li><img height="15" width="15" src="https://cdn.simpleicons.org/Gmail" />  meriam.hamdaoui@gmail.com</li>
-      <li><img height="15" width="15" src="https://cdn.simpleicons.org/LinkedIn" /> <a href="https://www.linkedin.com/in/mariem-hamdaoui-6186b273/" target="_blank">linkedin.com/in/mariem-hamdaoui</a> </li>
+      <li><img height="15" width="15" src="https://cdn.simpleicons.org/LinkedIn" /> <a href="[https://www.linkedin.com/in/mariem-hamdaoui-6186b273](https://www.linkedin.com/in/mariem-hamdaoui-6186b273/)/" target="_blank">linkedin.com/in/mariem-hamdaoui</a> </li>
       </ul>
     </li>     
   </ul>
