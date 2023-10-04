@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  I am a dedicated Tunisian Full-Stack developer with a strong passion for mastering new technologies and enhancing my coding proficiency. 
   <ul>
     <li>🔭 I am actively seeking new opportunities.</li>
-    <li>🌱 I’m currently learning Typescript</li>    
+    <li>🌱 I’m currently learning Typescript.</li> 
+   <li>😄 I'm interested in exchanging knowledge with others, especially when it comes to various technologies.</li>
     <li>📫 You can reach me, on :<ul>
       <li><img height="10" width="10" src="https://cdn.simpleicons.org/Gmail" /><a href="mailto:meriam.hamdaoui@gmail.com"> meriam.hamdaoui@gmail.com</a></li>
       <li><img height="10" width="10" src="https://cdn.simpleicons.org/LinkedIn" /><a href="https://www.linkedin.com/in/mariem-hamdaoui-6186b273/" target="_blank"> linkedin.com/in/mariem-hamdaoui</a> </li>
@@ -37,5 +38,23 @@ Here are some ideas to get you started:
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/meriam-hamdaoui?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
+
+---
+### 🧰 Languages and Tools
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="materialui" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br />
+
+#
 
 
