@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <li>🔭 I am actively seeking new opportunities.</li>
     <li>🌱 I’m currently learning Typescript</li>    
     <li>📫 You can reach me, on :<ul>
-      <li><img height="10" width="10" src="https://cdn.simpleicons.org/Gmail" /><a href="mailto:https://meriam.hamdaoui@gmail.com"> meriam.hamdaoui@gmail.com</a></li>
+      <li><img height="10" width="10" src="https://cdn.simpleicons.org/Gmail" /><a href="mailto:meriam.hamdaoui@gmail.com"> meriam.hamdaoui@gmail.com</a></li>
       <li><img height="10" width="10" src="https://cdn.simpleicons.org/LinkedIn" /><a href="https://www.linkedin.com/in/mariem-hamdaoui-6186b273/" target="_blank"> linkedin.com/in/mariem-hamdaoui</a> </li>
       </ul>
     </li>     
